@@ -16,12 +16,9 @@ Open `index.html` in any browser to view the full To-Do List dashboard: Review t
 
 ## 🤝 Contributing
 1. Fork the repository  
-2. Create your feature branch:  
-   `git checkout -b my-new-feature`
-3. Commit changes:  
-   `git commit -am 'Add some feature'`
-4. Push to your branch:  
-   `git push origin my-new-feature`
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit changes: `git commit -am 'Add some feature'`
+4. Push to your branch: `git push origin my-new-feature`
 5. Submit a pull request 🎉
 
 ## 📜 History
